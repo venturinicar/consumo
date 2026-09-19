@@ -12,8 +12,8 @@ Praticar lógica de programação para praticar o ciclo **Entrada &#10230; Proce
 
 O programa solicita a escolha de tipos do imóvel dentre asopções *comercial*, *casa*, *apartamento* , e o consumo registrado pelo hidrômetro,  e compara com valores de consumo com um padrão e indica o nivel de consumo e recomendações quando aplicável.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 20%; height: auto;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg"style="width: 20%; height: auto;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 10%; height: auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg"style="width: 10%; height: auto;" />
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
